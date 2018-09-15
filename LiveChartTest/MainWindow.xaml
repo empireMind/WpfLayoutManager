@@ -1,0 +1,26 @@
+﻿<Window x:Class="Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LiveChartTest"
+        xmlns:clm="clr-namespace:CamLayoutManager;assembly=CamLayoutManager"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="510" Width="640">
+    <Grid Background="Silver">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <clm:LayoutManager Name="camManager" ItemCount="4"
+                           DataPresenter="{StaticResource faceItemTemplate}" OnRemove="camManager_OnRemove"></clm:LayoutManager>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="Plus" Width="50" Height="25" Margin="5" Click="Plus_Click">加一</Button>
+            <Button x:Name="Delete" Grid.Column="1" Width="50" Height="25" Margin="5" Click="Delete_Click">减一</Button>
+        </Grid>
+    </Grid>
+</Window>

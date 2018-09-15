@@ -1,0 +1,16 @@
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\bin\Debug\CamLayoutManager.dll
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\bin\Debug\CamLayoutManager.pdb
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\obj\Debug\MainWindow.baml
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\obj\Debug\App.baml
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\obj\Debug\MainWindow.g.cs
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\obj\Debug\App.g.cs
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\bin\Debug\Demo.exe.config
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\bin\Debug\Demo.exe
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\bin\Debug\Demo.pdb
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\obj\Debug\Demo_MarkupCompile.cache
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\obj\Debug\Demo_MarkupCompile.lref
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\obj\Debug\Demo.g.resources
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\obj\Debug\Demo.exe
+C:\Users\刘晓川\Desktop\LiveChartTest\LiveChartTest\obj\Debug\Demo.pdb
